@@ -3,8 +3,6 @@ const express = require('express');
 
 const app = express();
 
-const PORT = 3000;
-
 // GET / - Welcome route
 app.get('/', (req, res) => {
     res.status(200).send('Welcome to Node.js and Express!');
