@@ -3,7 +3,7 @@
 ## Student Details
 - Name: K. Amrruth Bhushan
 - Registration Number: 252U1R5059
-- Section: Aurora
+- Section: AI DE 106
 - Course: Backend Development Fundamentals
 
 ## Objective
