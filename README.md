@@ -27,7 +27,7 @@ npm install
 
 npm start
 
-Open http://localhost:3000
+Open https://name-k-amrruth-bhushan-registration-no.onrender.com/
 
 ## API Endpoints
 
